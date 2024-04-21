@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -335,8 +334,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-=======
-remote_theme: pages-themes/architect@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
->>>>>>> 9685138ae8a36dd7a4d1da0beaf02645bd59d626
